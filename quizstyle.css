@@ -1,0 +1,52 @@
+#head{
+    color:deepskyblue;
+    background-color: white;
+    width: 1366px auto;
+    height:100px;
+   padding:20px ;
+   margin-left: 25% ;
+   font-size: 30px;
+   display: block;
+
+}
+.qContainer{
+    padding-top: 20px;
+    background-color:deepskyblue;
+    color:white;
+    height: 2100px ;
+    width:1366px auto;
+    padding-left: 200px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px ;
+}
+input{
+    border-radius: 12px;
+    border: 2px solid white;
+}
+.start{
+    margin-left: 35%;
+    padding-top: 20px;
+}
+.instruction{
+    margin-left: -25%;
+    padding-bottom: 60px;
+}
+.submit{
+    border-radius: 15px;
+    border: 2px solid white;
+    color:white;
+    font-size: 25px;
+    margin-left: 35%;
+    background-color: deepskyblue;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.result{
+    margin-left: 250px;
+    font-size: 25px;
+    color:white;
+}
+.foot{
+    margin-left: 90%;
+    font-size: 15px;
+}
